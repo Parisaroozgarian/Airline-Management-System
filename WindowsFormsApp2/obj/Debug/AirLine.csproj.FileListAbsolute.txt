@@ -1,0 +1,21 @@
+C:\Users\AUSU\AppData\Local\Temp\Rar$DIa496.28322\obj\Debug\AirLine.csproj.AssemblyReference.cache
+C:\Users\AUSU\AppData\Local\Temp\Rar$DIa496.28322\obj\Debug\AirLine.csproj.SuggestedBindingRedirects.cache
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AirLine.csproj.AssemblyReference.cache
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AirLine.csproj.SuggestedBindingRedirects.cache
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AddPassenger.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CancellationTbl.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FlightTbl.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Home.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ticket.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ViewFlight.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ViewPassenger.resources
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AirLine.csproj.GenerateResource.cache
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AirLine.csproj.CoreCompileInputs.cache
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\parisa data\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
